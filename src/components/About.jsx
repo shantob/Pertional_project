@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { FaDownload } from 'react-icons/fa';
 const About = () => {
   return (
     <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300'>
@@ -24,7 +24,9 @@ const About = () => {
               a software expert available at your fingertips?</p>  
             </div>
           </div>
+          <a href='Shanto Bepary.pdf' download='Shanto Bepary.pdf' className='text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 my-8 mx-auto flex items-center'>Downlood Resume <FaDownload size={30} className="mx-2" /></a>
       </div>
+      
     </div>
   );
 };

@@ -1,35 +1,22 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
 import RealEst from '../assets/projects/realestate.jpg'
-
+import video1 from '../assets/video1.mp4'
 export const data=[
     {
         id:1,
-        name:"React JS Application",
+        name:"PHP E-COMMERCE APPLICATION",
         image:WorkIm,
-        github:"",
-        live:"",
+        github:"https://github.com/shantob/E-comPHP-PDO",
+        live:video1,
     },
     {
         id:2,
-        name:"React JS Application",
+        name:"Laravel E-Commerce Application",
         image:RealEst,
-        github:"",
+        github:"https://github.com/shantob/Final_Project",
         live:"",
     },
-    {
-        id:3,
-        name:"React JS Application",
-        image:WorkIm,
-        github:"",
-        live:"",
-    },
-    {
-        id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
-    },
+
 
 
 ]
