@@ -1,8 +1,4 @@
-export const PRODUCTS = [
-    { name: "Drag And Drop", link: "#" },
-    { name: "Visual Studio X", link: "#" },
-    { name: "Easy Content", link: "#" },
-  ];
+
   export const RESOURCES = [
     { name: "Industries and tools", link: "#" },
     { name: "Use cases", link: "#" },

@@ -4,7 +4,7 @@ import ME from '../assets/My image1.jpg';
 
 const Home = () => {
   return (
-    <div name='home' className='w-full h-screen bg-[#0a192f] pt-14'>
+    <div name='home' className='w-full h-[800px] md:h-screen  bg-[#0a192f] pt-14'>
       {/* Container */}
       <div className='w-full grid grid-cols-1 sm:grid-cols-2  gap-2  md:text-left  sm:text-center py-8 sm:py-5'>
 
