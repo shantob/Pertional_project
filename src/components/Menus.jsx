@@ -1,22 +1,16 @@
 
   export const RESOURCES = [
-    { name: "Industries and tools", link: "#" },
-    { name: "Use cases", link: "#" },
-    { name: "Blog", link: "#" },
-    { name: "Online evenet", link: "#" },
-    { name: "Nostrud exercitation", link: "#" },
+    { name: "Seip Course from PONDIT", link: "#" },
+    { name: "Internship form CLOUD INSTITUTE", link: "#" },
+    { name: "Youtube", link: "#" },
+    { name: "Google", link: "#" },
   ];
   export const COMPANY = [
-    { name: "Diversity & inclusion", link: "#" },
-    { name: "About us", link: "#" },
-    { name: "Press", link: "#" },
-    { name: "Customer Stories", link: "#" },
-    { name: "Online communities", link: "#" },
+    { name: "No Company", link: "#" },
   ];
   export const SUPPORT = [
     { name: "Documentation", link: "#" },
     { name: "Tutorials & guides", link: "#" },
-    { name: "Webinars", link: "#" },
     { name: "Open-source", link: "#" },
   ];
   
