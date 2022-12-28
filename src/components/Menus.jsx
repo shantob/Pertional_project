@@ -1,7 +1,7 @@
 
   export const RESOURCES = [
-    { name: "Seip Course from PONDIT", link: "#" },
-    { name: "Internship form CLOUD INSTITUTE", link: "#" },
+    { name: "Seip Course from PONDIT", link: "https://pondit.com/" },
+    { name: "Internship form CLOUD INSTITUTE", link: "https://cloudinstitute.net/" },
     { name: "Youtube", link: "#" },
     { name: "Google", link: "#" },
   ];
